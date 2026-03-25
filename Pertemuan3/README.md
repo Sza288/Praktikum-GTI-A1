@@ -39,7 +39,7 @@ Dalam sistem koordinat 3D di program ini:
 
 ---
 
-##Simulasi
+## Simulasi
 
 *Berikut adalah perbandingan posisi objek saat koordinat digerakan melalui keyboard:*
 
@@ -52,14 +52,13 @@ Dalam sistem koordinat 3D di program ini:
 ### B. Gerakan Siku (Elbow)
 | Keadaan Normal (0°) | pencet 'e' (+5°) | pencet 'E' (-5°) | 
 | :---: | :---: | :---:
-| <img width="714" height="208" alt="image" src="https://github.com/user-attachments/assets/616bb70f-883a-42ca-b00e-fb47f7990196" />| <img width="702" height="204" alt="image" src="https://github.com/user-attachments/assets/db79ca69-976d-47f3-bd5c-f137c50123c2" />| <img width="669" height="170" alt="image" src="https://github.com/user-attachments/assets/b40b79f5-225c-495f-872a-e91a0a175eca" /> |
-
+| <img width="714" height="208" alt="image" src="https://github.com/user-attachments/assets/616bb70f-883a-42ca-b00e-fb47f7990196" />| <img width="702" height="204" alt="image" src="https://github.com/user-attachments/assets/db79ca69-976d-47f3-bd5c-f137c50123c2" />|<img width="669" height="170" alt="image" src="https://github.com/user-attachments/assets/b40b79f5-225c-495f-872a-e91a0a175eca" /> |
 | *Lengan bawah lurus* | *Hanya lengan bawah yang menekuk keatas* | *Hanya lengan bawah yang menekuk ke bawah* | 
 
 ### C. Gerakan Jari (Fingers)
 | Keadaan Normal (0°) | Ruas 1 - pencet 1-5  (+5°/pencet) | Ruas 2 - pencet q,w,r,t,y (+5°/pencet) |
-| :---: | :---: | :---: |
-| <img width="714" height="208" alt="image" src="https://github.com/user-attachments/assets/616bb70f-883a-42ca-b00e-fb47f7990196" /> | <img width="666" height="176" alt="image" src="https://github.com/user-attachments/assets/4cc2e8e2-657d-4803-8ee5-d0fca3e56777" />| <img width="613" height="224" alt="image" src="https://github.com/user-attachments/assets/5cde818f-8cf1-4281-8d24-42c02b53b278" />|
+| :---: | :---: | :---: 
+| <img width="714" height="208" alt="image" src="https://github.com/user-attachments/assets/616bb70f-883a-42ca-b00e-fb47f7990196" /> | <img width="666" height="176" alt="image" src="https://github.com/user-attachments/assets/4cc2e8e2-657d-4803-8ee5-d0fca3e56777" />|<img width="613" height="224" alt="image" src="https://github.com/user-attachments/assets/5cde818f-8cf1-4281-8d24-42c02b53b278" />|
 | *Jari lurus horizontal* | *Pangkal jari menekuk , disini 45°* | *Ujung jari melengkung , disini 90°* |
 
 ## Pose.1
